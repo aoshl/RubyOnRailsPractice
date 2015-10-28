@@ -1,0 +1,2 @@
+Archivo de prueba para realizar el primer commit.
+Curso de RubyOnRails
